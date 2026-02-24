@@ -7,5 +7,4 @@ int main(){
     int p2 = c*d;
     int l = p2/p1;
     cout<<l;
-
 }
