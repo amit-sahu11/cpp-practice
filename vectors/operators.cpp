@@ -1,3 +1,6 @@
+// push back, pop back , size and copacity, emplace back , at() and [] , front and back
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
