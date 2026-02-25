@@ -1,0 +1,8 @@
+stack works on the principle of LIFO last in first out
+
+push emplace
+top
+pop
+size
+empty
+swap

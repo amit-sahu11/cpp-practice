@@ -1,0 +1,8 @@
+queue works in the principle of fifo means first in first out
+
+push emplace
+front
+pop
+size
+empty
+swap

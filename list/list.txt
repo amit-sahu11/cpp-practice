@@ -1,0 +1,1 @@
+list is implemented as doubly linked list so we can apply all the operation from back and front
