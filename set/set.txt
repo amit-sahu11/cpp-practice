@@ -1,0 +1,12 @@
+The set is stored in sorted order
+
+set dosen't store duplicate values
+
+insert , emplace
+couunt
+erase
+find
+size,empty,erase
+
+there are two types of set
+mutli set and unordered set

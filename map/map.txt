@@ -1,0 +1,19 @@
+in this we store the value in key and pairs
+
+map<string,int>m;
+m[key] = value;   // insert and change
+
+insert , emplace
+count 
+erase
+find
+size ,empty , erase
+
+In map the output prints in ascending order accoriding to key 
+for example if there is no key amit and om
+so first amit will print and then om as o comes ater a.
+
+
+there are two types of map 
+1 multi map   (in multi map we can store multiple keys)
+2 unordered map  (in ordered map the value is stored in random manner and the value can't be duplicate)

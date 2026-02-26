@@ -1,0 +1,5 @@
+in priority queue it uses max heap and min heap internally 
+
+In maxheap the highest elemet is in the top of the tree.
+
+In minheap the lowest element is in the top of the tree.
