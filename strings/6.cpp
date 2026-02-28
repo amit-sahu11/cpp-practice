@@ -7,6 +7,7 @@ int main(){
     str =  "hello amit";
     cout<<str<<endl;
     string str1 = "new word";
+    string str4 = "new word";
     string str2 = str + str1;
     cout<<str2;
 }
