@@ -11,5 +11,4 @@ int main(){
     int n = m.length();
     cout<<n<<endl;
     cout<<s.erase(f,n);
-    
 }
