@@ -13,8 +13,6 @@ void solve() {
     for (int i = 0; i < n; i++) {
         cin >> p[i];
     }
-
-    // Special case for n=1
     if (n == 1) {
         cout << p[0] << endl;
         return;
