@@ -15,19 +15,16 @@ int main(){
 
     while(sR <= eR && sC <= eC){
 
-        // top row
         for(int i = sC; i <= eC; i++){
             new_matrix.push_back(matrix[sR][i]);
         }
         sR++;
 
-        // right column
         for(int i = sR; i <= eR; i++){
             new_matrix.push_back(matrix[i][eC]);
         }
         eC--;
 
-        // bottom row
         if(sR <= eR){
             for(int i = eC; i >= sC; i--){
                 new_matrix.push_back(matrix[eR][i]);
@@ -35,7 +32,6 @@ int main(){
             eR--;
         }
 
-        // left column
         if(sC <= eC){
             for(int i = eR; i >= sR; i--){
                 new_matrix.push_back(matrix[i][sC]);
