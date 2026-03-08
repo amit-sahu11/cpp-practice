@@ -14,7 +14,6 @@ int main(){
     int sC = 0, eC = n-1;
 
     while(sR <= eR && sC <= eC){
-
         for(int i = sC; i <= eC; i++){
             new_matrix.push_back(matrix[sR][i]);
         }
