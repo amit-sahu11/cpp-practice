@@ -12,6 +12,7 @@ int main(){
             cout<<arr[i]<<s;
         }
         else{
+            
             m.emplace(f,m[s]);
         }
     }
