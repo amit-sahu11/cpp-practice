@@ -8,7 +8,6 @@ int fibonacci(int n){
     b=a;
     
     return ;
-
 }
 
 int main(){
