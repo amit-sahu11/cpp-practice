@@ -2,7 +2,6 @@
 #include<vector>
 using namespace std;
 
-
 int binary_search(vector<int> arr, int target,int st,int end){
     if(st<=end){
         int mid = st+(end-st)/2;
