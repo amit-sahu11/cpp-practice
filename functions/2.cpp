@@ -1,6 +1,5 @@
 // In this we will learn about how parameters works
 
-
 #include<iostream>
 using namespace std;
 
