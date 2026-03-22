@@ -1,0 +1,8 @@
+In recursion humko do cheez chaiye phele base case base case bo condtion hoti hai jaha hame recurison ko rokna hota hai
+
+example leke samajhte hai
+
+agar hame n! nikalna hai matlab hame kya karna hai
+n! = n * (n-1)!
+ab ye condtion kab tab chalegi infinite loop tak lekin agar hame pata hai kaha hai rukna hai to use base condition bolenge
+jaise 4! nikalna ho to hame 1! factorial to pata hai ki kya hota hai bss yahi hamari base condition hogi....
