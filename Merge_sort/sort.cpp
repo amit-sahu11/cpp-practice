@@ -38,7 +38,6 @@ void mergeSort(vector<int> &arr,int st,int end){
         merge(arr,st,mid,end);
     }
 }
-
 int main(){
     vector<int> arr = {12,31,35,8,32,17};
     mergeSort(arr,0,arr.size()-1);
