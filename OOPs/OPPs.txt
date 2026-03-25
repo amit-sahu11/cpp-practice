@@ -1,0 +1,5 @@
+Classes & Objects-----
+
+· objects are entities in the real world
+
+· class is like a blueprint of these entities
