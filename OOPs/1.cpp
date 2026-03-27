@@ -15,7 +15,6 @@ class Teacher{
     }
 };
 
-
 int main(){
     Teacher t1;
 }
