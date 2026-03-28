@@ -29,7 +29,7 @@ public:
 };
 
 int main(){
-    Teacher t1;
+    Teacher t1; //constructor call
     t1.name = "amit";
     t1.subject = "c++";
     t1.dept = "computer science";

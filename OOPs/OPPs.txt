@@ -3,3 +3,23 @@ Classes & Objects-----
 · objects are entities in the real world
 
 · class is like a blueprint of these entities
+
+<---------Encapsulation-------->
+1. Encapsulation
+Encapsulation is wrapping up of data & member functions in a single unit called class.
+
+2. Abstraction
+3. Inheritance
+4. Polymorphism
+
+
+<---------Constructor-------->
+Special method invoked automatically at time of object creation. Used for Initialisation.
+
+· Same name as class
+
+· Constructor doesn't have a return type
+
+. Only called once (automatically), at object creation
+
+· Memory allocation happens when constructor is called
