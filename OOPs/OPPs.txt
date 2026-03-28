@@ -12,7 +12,6 @@ Encapsulation is wrapping up of data & member functions in a single unit called 
 3. Inheritance
 4. Polymorphism
 
-
 <---------Constructor-------->
 Special method invoked automatically at time of object creation. Used for Initialisation.
 
