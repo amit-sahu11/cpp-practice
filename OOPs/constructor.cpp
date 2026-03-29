@@ -15,12 +15,13 @@ public:
     string dept;
     string subject;
 
-    
+
     //Methods / Member function
     void changeDept(string newDept){
         dept = newDept;
     }
 
+    
     // setter 
     void setSalaray(double s){
         salary = s;
