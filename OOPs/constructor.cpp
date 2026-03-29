@@ -21,7 +21,7 @@ public:
         dept = newDept;
     }
 
-    
+
     // setter 
     void setSalaray(double s){
         salary = s;
@@ -32,6 +32,7 @@ public:
         return salary;
     }
 };
+
 
 int main(){
     Teacher t1; //constructor call
