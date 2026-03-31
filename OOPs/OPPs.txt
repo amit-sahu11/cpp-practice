@@ -22,3 +22,10 @@ Special method invoked automatically at time of object creation. Used for Initia
 . Only called once (automatically), at object creation
 
 · Memory allocation happens when constructor is called
+
+constructor overloading is an example of Polymorphism......
+
+
+this is a special pointer in C++ that points to the current object.
+
+this->prop is same as *(this).prop

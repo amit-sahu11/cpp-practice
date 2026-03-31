@@ -9,6 +9,7 @@ private:
 public:
     Teacher(){
         cout<<"Hii, this is constructor call"<<endl;
+        dept = "computer science";
     }
     //Properties
     string name;
@@ -39,10 +40,11 @@ int main(){
     Teacher t2; 
     t1.name = "amit";
     t1.subject = "c++";
-    t1.dept = "computer science";
+    // t1.dept = "computer science";
     t1.setSalaray(25000);
 
     cout<<t1.name<<endl;
+    cout<<t1.dept<<endl;
     cout<<t1.getSalary()<<endl;
     return 0;
 }
