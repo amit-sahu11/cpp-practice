@@ -29,3 +29,16 @@ constructor overloading is an example of Polymorphism......
 this is a special pointer in C++ that points to the current object.
 
 this->prop is same as *(this).prop
+
+
+<---------Copy_Constructor-------->
+
+Special Constructor (default) used to copy properties of one object into another.
+
+
+Shallow & Deep Copy
+
+A shallow copy of an object copies all of the member values from one object to another.
+
+A deep copy, on the other hand, not only copies the member values but also makes copies of
+any dynamically allocated memory that the members point to.
