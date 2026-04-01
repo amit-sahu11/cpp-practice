@@ -52,5 +52,22 @@ any dynamically allocated memory that the members point to.
 When properties & member functions of base class are passed on to the derived class.
 
 single Inheritance  (parent->child)
-multi level Inheritance   (parene->parent->child)
-multiple Inheritance    (parent-> child <-parent)
+multi level Inheritance   (parene -> parent -> child)
+multiple Inheritance    (parent -> child <- parent)
+heriarical Inheritance  (child <- parent -> child)
+hybrid Inheritance
+
+
+
+
+<---------Polymorphism-------->
+example of polymorphism is constructor overloading
+
+Polymorphism is the ability of objects to take on different forms or behave in different
+ways depending on the context in which they are used.
+
+· Compile Time Polymorphism ---------> 
+                constructor overloading
+                function overloading
+
+· Run Time Polymorphism
