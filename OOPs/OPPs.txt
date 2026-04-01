@@ -46,3 +46,11 @@ any dynamically allocated memory that the members point to.
 
 <---------Destructor-------->
 ~classname(){}
+
+
+<---------Inheritance-------->
+When properties & member functions of base class are passed on to the derived class.
+
+single Inheritance  (parent->child)
+multi level Inheritance   (parene->parent->child)
+multiple Inheritance    (parent-> child <-parent)
