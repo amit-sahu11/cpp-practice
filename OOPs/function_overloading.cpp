@@ -9,7 +9,7 @@ class Print{
         }
 
         void show(char ch){
-            cout<<"int : "<<ch<<endl;
+            cout<<"char : "<<ch<<endl;
         }
 };
 
