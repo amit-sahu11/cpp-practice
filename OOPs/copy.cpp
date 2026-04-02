@@ -33,6 +33,9 @@ class Teacher{
         }
 };
 
+
+
+
 int main(){
     Teacher t1("amit","computer science","c++",25000);
     // t1.getInfo();
