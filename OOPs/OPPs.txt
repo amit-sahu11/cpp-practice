@@ -71,3 +71,28 @@ ways depending on the context in which they are used.
                 function overloading
 
 · Run Time Polymorphism
+
+
+
+<---------Run Time Polymorphism--------> dynamic polymorphism
+· Function Overriding
+
+    Parent & Child both contain the same function with different implementation.
+
+    The parent class function is said to be overridden.
+
+· Virtual Functions
+
+    A virtual function is a member function that you expect to be redefined in derived classes.
+
+<---------Abstraction-------->
+
+Hiding all unnecessary details & showing only the important parts
+
+using Abstract Classes
+
+· Abstract classes are used to provide a base class from which other classes can be derived.
+
+· They cannot be instantiated and are meant to be inherited.
+
+· Abstract classes are typically used to define an interface for derived classes.
