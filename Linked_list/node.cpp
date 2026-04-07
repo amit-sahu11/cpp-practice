@@ -13,6 +13,7 @@ class Node{
         }
 };
 
+
 int main(){
     Node* node1 = new Node(1);
     Node* node2 = new Node(2);
