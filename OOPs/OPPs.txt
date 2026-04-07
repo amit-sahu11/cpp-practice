@@ -98,6 +98,7 @@ using Abstract Classes
 · Abstract classes are typically used to define an interface for derived classes.
 
 
+
 Static Keyword
 · Static Variables
 
