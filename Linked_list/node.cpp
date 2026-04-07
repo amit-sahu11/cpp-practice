@@ -6,13 +6,11 @@ class Node{
     public:
         int value;
         Node* next;
-
         Node(int v){
             value = v;
             next = NULL;
         }
 };
-
 
 int main(){
     Node* node1 = new Node(1);
