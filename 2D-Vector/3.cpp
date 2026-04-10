@@ -8,6 +8,5 @@ int main(){
             cout<<mat[i][j]<<" ";
         }
         cout<<endl;
-        
     }
 }
