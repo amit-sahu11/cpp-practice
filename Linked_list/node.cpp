@@ -8,8 +8,7 @@ class Node{
         Node* next;
         Node(int v){
             value = v;
-            next = NULL;
-            
+            next = NULL;           
         }
 };
 
