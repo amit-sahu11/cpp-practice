@@ -2,7 +2,6 @@
 #include<vector>
 using namespace std;
 
-
 class Teacher{
     private:
         double salary;
