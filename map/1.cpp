@@ -17,7 +17,6 @@ int main(){
     for(auto val:m){
         cout<<val.first<< " "<<val.second<<endl;
     }
-
     //count
     cout<<m.count("laptop")<<endl;
     cout<<m["laptop"]<<endl;
