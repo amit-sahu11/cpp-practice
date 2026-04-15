@@ -8,6 +8,7 @@ int main(){
     q.push(5);
     q.push(9);
 
+    
     while(!q.empty()){
         cout<<q.front();
         q.pop();
