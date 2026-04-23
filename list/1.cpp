@@ -8,7 +8,6 @@ int main(){
     l.push_back(1);
     l.push_back(2);
     l.push_front(3);
-
     l.pop_back();
     l.pop_front();
     for(int val:l){
