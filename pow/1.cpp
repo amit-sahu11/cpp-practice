@@ -12,6 +12,7 @@ int main(){
         }
         x=x*x;
         binform = binform/2;
+        
     }
     cout<<ans;
 }
