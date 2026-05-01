@@ -10,6 +10,7 @@ void rev(int n){
     rev(n-1);
 }
 
+
 int main(){
     rev(25);
     return 0;
