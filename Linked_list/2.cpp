@@ -12,6 +12,7 @@ class Node{
     }
 };
 
+
 int main(){
 
     Node* n = new Node(1);
