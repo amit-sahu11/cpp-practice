@@ -8,7 +8,6 @@ int main(){
     pq.push(8);
     pq.push(4);
     pq.push(10);
-
     while(!pq.empty()){
         cout<<pq.top();
         pq.pop();
