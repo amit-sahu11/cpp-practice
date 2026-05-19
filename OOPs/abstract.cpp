@@ -14,7 +14,6 @@ class Circle : public Shape{
         }
 };
 
-
 int main(){
     Circle c1;
     c1.draw();
