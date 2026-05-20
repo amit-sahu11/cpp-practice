@@ -12,5 +12,4 @@ int main(){
     // cin.getline(c,100);
     cin.getline(c,100,'@');
     cout<<c<<endl;
-
 }
