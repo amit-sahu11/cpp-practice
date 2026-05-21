@@ -16,6 +16,7 @@ class Teacher{
             this->subject = subject;
             this->salary = salary;  
         }
+        
         // copy constructor
         Teacher(Teacher &orgObj){ //pass by reference
             cout<<"I am custom copy constructor"<<endl;
