@@ -14,6 +14,7 @@ public:
         subject = s;
         salary = sal;
     }
+    
     //Properties
     string name;
     string dept;
