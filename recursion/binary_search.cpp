@@ -15,6 +15,8 @@ int binary_search(vector<int> arr, int target,int st,int end){
     }
     return -1;
 }
+
+
 int main(){
     vector<int> arr = {1,2,3,4,5,6};
     int index = binary_search(arr,3,0,arr.size()-1);
