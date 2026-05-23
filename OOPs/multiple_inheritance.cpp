@@ -8,6 +8,7 @@ class Student{
         int rollno;
 };
 
+
 class Teacher{
     public:
         string subject;
