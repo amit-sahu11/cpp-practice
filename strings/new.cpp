@@ -5,6 +5,5 @@ int main(){
     string ans = "";
     reverse(s.begin(),s.end());
     for(int i=0;i<s.length();i++){
-
     }
 }
