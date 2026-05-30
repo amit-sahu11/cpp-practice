@@ -20,4 +20,5 @@ int main(){
     for(int val:l1){
         cout<<val<<" ";
     }
+    
 }
