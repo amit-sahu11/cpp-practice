@@ -1,6 +1,5 @@
 #include<iostream>
 #include<vector>
-
 using namespace std;
 
 vector<int> pairsum(vector<int> nums,int target){
