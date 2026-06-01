@@ -13,7 +13,6 @@ int main(){
 
     // lower bound give the exact value 4 and if 4 is not available it give just one above valur means 5 and if it is also not available it will give s.end() value means koi bhi valid anser exist nhi krta and when we will print the defrence value it will give the output as 0
 
-
     for(auto val:s){
         cout<<val;
     }
