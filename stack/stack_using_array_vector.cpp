@@ -7,7 +7,7 @@
 #include <vector>
 using namespace std;
 
-class stack{
+class Stack{
     vector<int> v;
 
 public:
@@ -29,5 +29,15 @@ public:
 };
 
 int main(){
+    Stack s;
+    s.push(10);
+    s.push(20);
+    s.push(30);
 
+    while(!s.empty()){
+        cout<<s.top()<<" ";
+        s.pop();
+    }
+    cout<<endl;
+    return 0;
 }
