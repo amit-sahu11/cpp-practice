@@ -12,6 +12,7 @@ class Student{
             cgpaPtr = new double;
             *cgpaPtr = cgpa;
         }
+        
         // Destructor
         ~Student(){
             cout<<"hii I delete everything"<<endl;
