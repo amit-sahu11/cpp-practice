@@ -15,7 +15,7 @@ class Student{
         
         // Destructor
         ~Student(){
-            cout<<"hii I delete everything"<<endl;
+            cout<<"hii I delete everytdhing"<<endl;
             delete cgpaPtr;
         }
 
@@ -28,5 +28,6 @@ class Student{
 int main(){
     Student s1("rahul kumar",8.9);
     s1.getInfo();
+    
     return 0;
 }
