@@ -29,6 +29,7 @@ public:
     void getInfo(){
         cout<<"name : "<<name<<endl;
         cout<<"subject : "<<subject<<endl;
+        
     }
 };
 
