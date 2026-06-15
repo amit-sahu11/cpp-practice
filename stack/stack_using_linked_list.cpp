@@ -6,6 +6,7 @@ class Stack{
     list<int> ll;
 
 public:
+
     void push(int val){
         ll.push_front(val);
     }
