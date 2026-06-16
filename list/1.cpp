@@ -16,6 +16,7 @@ int main(){
     }
     
     cout<<endl;
+    
     list<int> l1 = {4,5,6,7,8,9};
     for(int val:l1){
         cout<<val<<" ";
