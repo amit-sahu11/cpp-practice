@@ -31,7 +31,6 @@ void display(Node* head){
 }
 
 int main(){
-
     Node* head = NULL;
     insertAtHead(head,2);
     display(head);
