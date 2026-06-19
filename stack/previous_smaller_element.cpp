@@ -17,6 +17,7 @@ int main(){
             ans[i]=s.top();
         }
         s.push(arr[i]);
+        
     }
     for(int val : ans){
         cout<<val<<" ";
