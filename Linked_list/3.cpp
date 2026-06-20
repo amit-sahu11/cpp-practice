@@ -27,7 +27,6 @@ void display(Node* head){
         cout<<temp->val<<endl;
         temp = temp->next;
     }
-
 }
 
 int main(){
