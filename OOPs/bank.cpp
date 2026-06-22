@@ -4,8 +4,9 @@ using namespace std;
 class Account{
 private:
     double balance;
-    string password;   //data hiding
+    string password;  //data hiding
 
+    
 public:
     string accountId;
     string username;
