@@ -3,6 +3,7 @@
 // if we implement stack using vector there will not be any limitations on the stack
 // so right now we are going to use vector for our stack data structure
 
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -11,6 +12,7 @@ class Stack{
     vector<int> v;
 
 public:
+
     void push(int val){
         v.push_back(val);
     }
