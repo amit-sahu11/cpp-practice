@@ -16,5 +16,6 @@ int main(){
 
     for(auto val:s){
         cout<<val;
+        
     }
 }
