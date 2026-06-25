@@ -11,7 +11,6 @@ vector<int> pairsum(vector<int> nums,int target){
         int pairsum = nums[i]+nums[j];
         if(pairsum>target){
             j--;
-            
         } else if(pairsum<target){
             i++;
 
