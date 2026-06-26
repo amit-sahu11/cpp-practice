@@ -30,7 +30,6 @@ public:
         }
         Node newNode(val); //static
     }
-
 };
 
 int main(){
