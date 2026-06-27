@@ -16,7 +16,6 @@ public:
     string dept;
     string subject;
 
-
     //Methods / Member function
     void changeDept(string newDept){
         dept = newDept;
