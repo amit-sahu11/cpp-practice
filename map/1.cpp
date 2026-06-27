@@ -13,7 +13,6 @@ int main(){
     //emplace
     m.emplace("laptop",40);
 
-    //
     for(auto val:m){
         cout<<val.first<< " "<<val.second<<endl;
     }
