@@ -6,7 +6,6 @@ int main(){
     cout<<p.first<<endl;
     cout<<p.second<<endl;
  
-
     pair<string,int> n = {"amit" , 10};
     cout<<n.first<<endl;
     cout<<n.second<<endl;
