@@ -46,7 +46,6 @@ int main() {
         cin >> nums[i];
         
     }
-
     cin >> target;
     
     Solution obj;
