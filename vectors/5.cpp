@@ -2,7 +2,6 @@
 #include<vector>
 
 using namespace std;
-
 vector<int> pairsum(vector<int> nums,int target){
     vector<int> ans;
     int n = nums.size();
