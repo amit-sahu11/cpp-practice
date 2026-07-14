@@ -4,7 +4,6 @@ using namespace std;
 
 int main(){
     int n=5;
-    
     int arr[5]={-5,1,3,4,8};
     int maxsum = INT_MIN;
 
