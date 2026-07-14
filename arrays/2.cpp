@@ -8,5 +8,6 @@ int main(){
     for(int i = 0;i<n;i++){
         smallest = min(arr[i],smallest);
     }
+    
     cout<<smallest;
 }
