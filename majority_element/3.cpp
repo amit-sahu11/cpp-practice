@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 int main(){
     int freq=0 ,ans=0;
     int n=16;
