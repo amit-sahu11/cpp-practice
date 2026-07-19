@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+    
     unordered_map<string,int> um;
     um.emplace("laptop",50);
     um.emplace("printer",50);
