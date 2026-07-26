@@ -17,6 +17,7 @@ class List{
     Node* head;   // humne yaha declare nhi to automatic ye private hongi
     Node* tail;
 
+    
 public:
     List(){
         head = tail = NULL;
