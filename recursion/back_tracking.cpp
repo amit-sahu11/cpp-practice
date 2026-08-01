@@ -11,8 +11,6 @@ void printSubsets(vector<int> &arr,vector<int> &ans,int i){
         cout<<endl;
         return;
     }
-    
-    
     // include
     ans.push_back(arr[i]);
     printSubsets(arr,ans,i+1);
