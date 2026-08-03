@@ -50,9 +50,7 @@ int main() {
     q.enqueue(10);
     q.enqueue(20);
     q.enqueue(30);
-
     q.display();
-
     cout << endl;
 
     q.dequeue();
