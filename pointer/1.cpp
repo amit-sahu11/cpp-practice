@@ -13,4 +13,5 @@ int main(){
     cout<<&c<<endl;
     cout<<*c<<endl;
     cout<<**c<<endl;
+    
 }
