@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-
     // Creating an empty set
     set<int> s1;
 
