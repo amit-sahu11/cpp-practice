@@ -12,6 +12,7 @@ int main(){
     s.pop();
     cout<<s.top()<<endl;
     
+    
     // for(int val : s){
     //     cout<<val<<endl;
     // }
