@@ -25,6 +25,4 @@ int main(){
 
     if(minutes < 10) cout << "0";
     cout << minutes;
-
-
 }
