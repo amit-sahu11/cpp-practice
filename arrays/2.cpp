@@ -9,5 +9,4 @@ int main(){
         smallest = min(arr[i],smallest);
     }
     cout<<smallest;
-    
 }
