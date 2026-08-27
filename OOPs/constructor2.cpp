@@ -14,12 +14,10 @@ public:
         subject = s;
         salary = sal;
     }
-    
     //Properties
     string name;
     string dept;
     string subject;
-
 
     //Methods / Member function
     void changeDept(string newDept){
