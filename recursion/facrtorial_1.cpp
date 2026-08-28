@@ -14,6 +14,7 @@ int main() {
     result = factorial(n);
     cout << "Factorial of " << n << " = " << result;
     return 0;
+    
 }
 
 int factorial(int n) {
