@@ -7,7 +7,6 @@ class Print{
         void show(int x){
             cout<<"int : "<<x<<endl;
         }
-
         void show(char ch){
             cout<<"char : "<<ch<<endl;
         }
