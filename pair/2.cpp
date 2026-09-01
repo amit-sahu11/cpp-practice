@@ -9,6 +9,7 @@ int main(){
     vp.emplace_back(7,9);
     // for(pair<int,int> val:vp){
     // instid of this we can also use auto keyword
+    
     for(auto val:vp){
         cout<<val.first<<" "<<val.second<<endl;
     }
