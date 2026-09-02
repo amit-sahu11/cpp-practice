@@ -22,6 +22,7 @@ void merge(int arr[], int low, int mid, int high) {
 
     for (i = low, k = 0; i <= high; i++, k++)
         arr[i] = temp[k];
+    
 }
 
 void mergeSort(int arr[], int low, int high) {
