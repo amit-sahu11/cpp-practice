@@ -12,9 +12,7 @@ int main(){
         if(m.find(s)!=m.end()){
             cout<<arr[i]<<s;
         }
-        
         else{
-            
             m.emplace(f,m[s]);
         }
         
