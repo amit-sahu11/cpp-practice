@@ -14,7 +14,6 @@ int main(){
         }
         else{
             m.emplace(f,m[s]);
-        }
-        
+        }   
     }
 }
