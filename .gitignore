@@ -1,0 +1,11 @@
+# Binaries and compiled files
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+
+# VS Code runtime files (keep configuration)
+.vscode/.browse.c_cpp.db*
+.vscode/*.log
