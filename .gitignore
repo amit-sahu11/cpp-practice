@@ -9,3 +9,6 @@
 # VS Code runtime files (keep configuration)
 .vscode/.browse.c_cpp.db*
 .vscode/*.log
+
+# Generated chart assets (PDFs are kept)
+.assets/

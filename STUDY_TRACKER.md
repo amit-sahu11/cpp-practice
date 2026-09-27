@@ -1,4 +1,4 @@
-﻿# 📊 C++ DSA Learning Tracker & Study Memory
+# 📊 C++ DSA Learning Tracker & Study Memory
 
 ## 👤 Student Profile & Objective
 - **Student**: Amit
@@ -54,7 +54,7 @@
 ## 📈 Current Status Summary
 - **Current Phase**: Phase 4: Linked Lists & Pointers
 - **Existing Repositories Touched by Amit**:
-  - Arrays, 2D Vectors, Binary Search, Merge Sort, Kadane's Algorithm, Strings, Deque, Stack, Queue, Linked List (`new3.cpp` working on Node comparison).
+  - Arrays, 2D Vectors, Binary Search, Merge Sort, Kadane's Algorithm, Strings, Deque, Stack, Queue, Linked List (`linked_list/compare_first_last_node.cpp` working on Node comparison).
 - **Strong Areas**: Basic C++ syntax, loops, class definition for Node, vector usage.
 - **Topics in Progress**: Linked List manipulation, Pointer dereferencing, Dynamic memory allocation (`new Node`).
 - **Recommended Next Step**:

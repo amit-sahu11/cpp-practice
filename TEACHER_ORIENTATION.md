@@ -1,4 +1,4 @@
-﻿# 🎯 TEACHER ORIENTATION & HANDOVER GUIDE (Read Me First!)
+# 🎯 TEACHER ORIENTATION & HANDOVER GUIDE (Read Me First!)
 
 ### 📌 Note for Any AI Assistant Opening This Workspace:
 Amit has established a unified **Long-Term Teacher Framework** across his learning tracks (both Data Science and DSA). 
@@ -11,7 +11,7 @@ You must immediately read:
 ---
 
 ### 🧠 Current State of the Student (Amit):
-* **Background in this repository**: Amit has already worked on basic C++ syntax, Arrays, 2D Vectors, Strings, Functions, Binary Search, Merge Sort, Kadane's Algorithm, Stacks, Queues, and recently started **Linked Lists** (`new3.cpp` working on comparing first & last nodes).
+* **Background in this repository**: Amit has already worked on basic C++ syntax, Arrays, 2D Vectors, Strings, Functions, Binary Search, Merge Sort, Kadane's Algorithm, Stacks, Queues, and recently started **Linked Lists** (`linked_list/compare_first_last_node.cpp` working on comparing first & last nodes).
 * **Current Active Milestone**: **Phase 4: Linked Lists & Pointers**.
 * **Preferred Learning Style**:
   1. **Deep Foundations First**: Explain the "why", RAM/Heap/Stack memory diagrams, pointer syntax (`*`, `&`, `->`), and time/space complexity **in deep detail before giving questions**.
