@@ -12,6 +12,5 @@ int main() {
     for (int x : l) {
         cout << x << " ";
     }
-
     return 0;
 }
