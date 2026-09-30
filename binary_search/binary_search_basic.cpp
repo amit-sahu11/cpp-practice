@@ -20,7 +20,6 @@ int binarySearch(vector<int> &arr, int x) {
         else
             high = mid - 1;
     }
-
     // If we reach here, then element was not present
     return -1;
 }
