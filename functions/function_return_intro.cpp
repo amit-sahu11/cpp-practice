@@ -6,7 +6,6 @@ int printhello(){
     return 3;
 }
 
-
 int main(){
     cout<<"hello ";
     printhello();
