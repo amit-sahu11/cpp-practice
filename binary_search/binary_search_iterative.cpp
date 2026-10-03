@@ -13,9 +13,11 @@ int main(){
         if(target < arr[mid]){
             end = mid-1;
         }
+        
         else if(target > arr[mid]){
             st = mid +1;
         }
+
         else{
             cout<<mid;
             break;
