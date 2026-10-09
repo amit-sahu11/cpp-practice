@@ -9,6 +9,7 @@ int main(){
     // so to overcome this problem we use getline()
     // cin.getline(str,len,delim?)
     char c[100];
+
     // cin.getline(c,100);
     cin.getline(c,100,'@');
     cout<<c<<endl;
