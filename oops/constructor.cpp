@@ -21,7 +21,6 @@ public:
         dept = newDept;
     }
 
-
     // setter 
     void setSalaray(double s){
         salary = s;
