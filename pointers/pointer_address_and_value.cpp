@@ -14,4 +14,5 @@ int main() {
     cout << "Value pointed to by ptr: " << *ptr << endl;
 
     return 0;
+    
 }
