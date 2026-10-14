@@ -8,6 +8,5 @@ int main() {
     // Traversing using iterators
     for (auto it = s.begin(); it != s.end(); ++it)
         cout << *it << endl;  
-
     return 0;
 }
