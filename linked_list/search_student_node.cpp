@@ -24,6 +24,7 @@ class Node{
             name = val;
             next = NULL;
         }
+        
 };
 
 int main(){
