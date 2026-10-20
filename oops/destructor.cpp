@@ -28,6 +28,5 @@ class Student{
 int main(){
     Student s1("rahul kumar",8.9);
     s1.getInfo();
-    
     return 0;
 }
