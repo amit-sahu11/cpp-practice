@@ -10,8 +10,7 @@ int main() {
     d.push_front(20);
     d.push_front(10);
     
-    // Displaying elements
-    
+    // Displaying elementsd
     cout << "Elements in deque (added using push_front): ";
     for (int val : d) {
         cout << val << " ";
