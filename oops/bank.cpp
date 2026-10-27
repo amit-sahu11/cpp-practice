@@ -11,5 +11,6 @@ public:
     string username;
 };
 
+
 int main(){
 }
