@@ -71,9 +71,7 @@ int main() {
     cout << q.front() << endl;
     
     q.pop();
-
     cout << q.front() << endl;
-
     cout << q.empty() << endl;
 
     return 0;

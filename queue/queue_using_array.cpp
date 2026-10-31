@@ -28,7 +28,6 @@ public:
             cout << "Queue Underflow\n";
             return;
         }
-
         cout << "Deleted: " << arr[front] << endl;
         front++;
     }
