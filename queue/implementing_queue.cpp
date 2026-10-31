@@ -38,7 +38,6 @@ public:
             cout << "Queue is empty";
             return;
         }
-
         Node* temp = head;
         head = head->next;
         delete temp;
