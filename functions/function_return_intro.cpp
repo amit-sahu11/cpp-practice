@@ -4,7 +4,6 @@ using namespace std;
 int printhello(){
     cout<<"amit bhai kaise ho";
     return 3;
-    
 }
 
 int main(){
