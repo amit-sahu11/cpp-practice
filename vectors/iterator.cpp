@@ -12,6 +12,7 @@ int main(){
     cout<<endl;
     // vector<int>::reverse_iterator n;
     // we dont have to use that line because of auto keyword....
+    
     for(auto n = vec.rbegin();n != vec.rend();n++){
         cout<<*(n)<<" ";
     }
