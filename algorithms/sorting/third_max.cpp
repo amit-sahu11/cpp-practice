@@ -25,7 +25,6 @@ public:
                 third = num;
             }
         }
-
         return (third == LONG_MIN) ? first : third;
     }
 };
