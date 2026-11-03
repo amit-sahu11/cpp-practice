@@ -18,6 +18,7 @@ int main() {
     cout << "All elements: ";
     for (auto x : s)
         cout << x << " ";
+    
     cout << endl;
 
     return 0;
