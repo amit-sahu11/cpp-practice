@@ -6,5 +6,6 @@ int main(){
     sort(arr,arr+7);
     for(int val:arr){
         cout<<val;
+        
     }
 }
